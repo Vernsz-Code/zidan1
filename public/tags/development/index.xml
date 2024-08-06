@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on WEB TENTANG ZIDAN</title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on WEB TENTANG ZIDAN</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://localhost:1313/posts/2014/04/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2014/04/hugo-template-primer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jenjang Pendidikan</title>
+      <link>http://localhost:1313/posts/1/01/jenjang-pendidikan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1/01/jenjang-pendidikan/</guid>
+      <description>Tempat sekolah pertama saya adalah paud seruni yang terletak di belakang rumah saya, saat sekolah di paud seruni saya adalah anak yang nakal. Lanjut masuk ke TK Satria lokasi TK tersebut sangat lah dekat dengan rumah saya. Setelah itu saya masuk ke sd negeri 1 sukarame, saat di sd bisa dibilang saya orang yang pendiam tapi tidak pendiam banget. Setelah dari sd saya masuk ke smp yaitu smp 29, di smp 29 saya mempunyai lumayan banyak teman , tetapi di masa smp saya ketemu teman hanya 1 tahun setengah kana saat itu sedang ada wabah virus corona.</description>
+    </item>
+  </channel>
+</rss>
